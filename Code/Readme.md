@@ -1,7 +1,7 @@
-# Code folder for hosting code for a Data Science Project
+# Folder for Hosting Code for a Data Science Project
 
-This folder hosts all code for a data science project. It has three sub-folders, belonging to 3 stages of the Data Science Lifecycle:
+This folder hosts all code for a data science project. It has three sub-folders, belonging to three stages of the data science lifecycle:
 
-1. Data_Acquisition_and_Understanding
+1. Data Acquisition and Understanding
 2. Modeling
 3. Deployment

@@ -45,7 +45,6 @@ The following are the deliverables in this stage:
 
 The next step in the lifecycle of the TDSP is **Modeling**. 
 
-## Reference
+## Further reading
 
-[https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/lifecycle-data](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/lifecycle-data)
-
+This guideline is an excerpt from the [Team Data Science Process documentation](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/lifecycle-data)
