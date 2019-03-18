@@ -1,4 +1,6 @@
-# Folder for hosting project documents and reports for a Data Science Project
+# Project
+
+_Folder for hosting project documents and reports_
 
 These could be: 
 
