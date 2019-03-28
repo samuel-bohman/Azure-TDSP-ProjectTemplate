@@ -1,4 +1,4 @@
-# Folder for Hosting Code for a Data Science Project
+# Code
 
 This folder hosts all code for a data science project. It has three sub-folders, belonging to three stages of the data science lifecycle:
 

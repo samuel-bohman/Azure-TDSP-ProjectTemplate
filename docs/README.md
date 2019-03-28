@@ -1,12 +1,11 @@
 # Documents
 
-_Folder for hosting all documents for a data science project_
+This folder hosts all documents for a data science project. It has four sub-folders:
 
-Documents will contain information about the following: 
-
-1. System architecture
-2. Data dictionaries
-3. Reports related to data understanding, modeling
-4. Project management and planning docs
-5. Information obtained from a business owner or client about the project
-6. Docs and presentations prepared to share information about the project 
+1. Data dictionaries: descriptions of the data
+2. Data report: related to data quality and data exploration
+3. Model: reports related to modeling and experiments
+4. Project: All information regarding the project, in particular
+    - Project charter
+    - System architecture
+    - Exit report
