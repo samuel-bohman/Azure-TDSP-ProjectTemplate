@@ -1,6 +1,6 @@
 # Data 
 
-This folder hosts all data for a data science project. It has three sub-folders:
+This folder hosts (samples of) all data for a data science project. It has three sub-folders:
 
 1. Raw  
 2. Processed  
