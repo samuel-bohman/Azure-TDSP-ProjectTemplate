@@ -2,6 +2,8 @@
 
 This folder hosts all data for a data science project. It has three sub-folders:
 
-1. Raw: Here you store the raw data extracted from a source system, e.g. Excel worksheets 
-2. Processed: Here you store the processed data, e.g. clean CSV files 
-3. For modeling: Here you store feature sets ready for modeling, e.g. time-series objects 
+1. Raw  
+2. Processed  
+3. For modeling  
+
+**NOTE: Data (raw, processed, feature sets) should NEVER be stored on GitHub**. Ensure all data file types are listed in the .gitignore file in the project root folder. 
