@@ -1,4 +1,4 @@
-# Model Deployment
+# Deployment
 
 ## Goal
 

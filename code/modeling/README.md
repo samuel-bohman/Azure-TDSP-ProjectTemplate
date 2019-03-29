@@ -1,4 +1,4 @@
-# Modeling and Related Activities
+# Modeling
 
 ## Goals
 
