@@ -1,4 +1,4 @@
-# Data Acquisition and Understanding
+# Exploration
 
 ## Goals
 
